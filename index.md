@@ -1,7 +1,5 @@
-# Things make me maintain my mental health
-## Outside [Outside and Meditation](./outside.md)
-1. Go outside and get some fresh air
-## Friends [Hang Out with Friends](./friend.md)
-2. Hang out with friends
-## Music [Music and Guitar](./music.md)
-3. play guaitar. music always can help me.
+#Things make me maintain my mental health
+1. youtube videos
+2. boxing
+3. sleep
+4. comfortable food
