@@ -3,4 +3,5 @@
 1. Go outside and get some fresh air
 ## Friends [Hang Out with Friends](./friend.md)
 2. Hang out with friends
+## Music [Music and Guitar](./music.md)
 3. play guaitar. music always can help me.
